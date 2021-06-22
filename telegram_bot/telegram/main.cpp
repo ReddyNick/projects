@@ -6,7 +6,7 @@
 #include "bot.h"
 
 int main(int argc, char* argv[]) {
-    std::string api_key = "1489848347:AAFidXFV34wu91cHQvSD6HoSZgXunV5IvNw";
+    std::string api_key = "a token here";
     Bot bot(api_key);
 
     bot.Start();
